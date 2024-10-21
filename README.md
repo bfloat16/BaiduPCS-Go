@@ -3,8 +3,6 @@
 
 仿 Linux shell 文件处理命令的百度网盘命令行客户端.
 
-iikira/BaiduPCS-Go was largely inspired by [GangZhuo/BaiduPCS](https://github.com/GangZhuo/BaiduPCS) and this project was largely based on iikira/BaiduPCS-Go
-
 ## 注意
 
 此版本基于iikira原版BaiduPCS-Go v3.6.2继续开发, 并添加了转存功能.
